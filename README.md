@@ -3,7 +3,7 @@
     <!-- COLUMNA IZQUIERDA: Tu texto exacto -->
     <td width="72%" valign="top" align="left">
       <h1>💫 About Me:</h1>
-      <p>👋 Hey, soy Erein<br>⚡ Backend Developer<br><br>Construyendo soluciones lógicas y automatizaciones desde bilbao<br><br>🚀 Sobre Mí<br><br>💼 Desarrollando una <i>SaaS de fidelización y tarjetas NFC</i> automatizada con Inteligencia Artificial para hostelería y comercios locales en Bilbao.<br>🧠 Especializándome en arquitectura robusta de backend con Java y Spring Boot, gestión de bases de datos relacionales y control de versiones.<br>🎓 Cursando el Máster de Formación Permanente en Desarrollo Fullstack por la <i>Universidad Isabel I</i> y <i>Conquer Blocks</i>.</p>
+      <p>👋 Hey, soy Erein<br>⚡ Backend Developer<br><br>Construyendo soluciones lógicas y automatizaciones desde bilbao<br><br>🚀 Sobre Mí<br><br>💼 Desarrollando una <i>SaaS de fidelización y tarjetas NFC</i> automatizada con Inteligencia Artificial para hostelería,restaurantes y comercios locales en Bilbao.<br>🧠 Especializándome en arquitectura robusta de backend con Java y Spring Boot, gestión de bases de datos relacionales y control de versiones.<br>🎓 Cursando el Máster de Formación Permanente en Desarrollo Fullstack por la <i>Universidad Isabel I</i> y <i>Conquer Blocks</i>.</p>
     </td>
 
    <td width="28%" valign="middle" align="center">
